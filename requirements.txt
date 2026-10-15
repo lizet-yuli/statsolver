@@ -1,0 +1,13 @@
+streamlit>=1.50
+sympy>=1.13
+numpy>=2.0
+scipy>=1.14
+pandas>=2.2
+matplotlib>=3.10
+tabulate>=0.9
+anthropic>=1.14
+pydantic>=2.9
+pillow>=11.0
+python-dotenv>=1.0
+segno>=1.6
+pytest>=8.0

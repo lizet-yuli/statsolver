@@ -1,0 +1,9 @@
+[theme]
+primaryColor = "#2563eb"
+baseRadius = "0.75rem"
+
+[server]
+maxUploadSize = 20
+
+[browser]
+gatherUsageStats = false

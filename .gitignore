@@ -1,0 +1,10 @@
+# Secretos: nunca subir la API key ni la contraseña
+.env
+.streamlit/secrets.toml
+
+# Entorno y archivos generados
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+herramientas/
